@@ -3,7 +3,7 @@
 # Horiseon
 Horiseon is a company that focuses on online social solutions. This page follows accessibility standards so that its optimized for search engines.
 
-![image](https://realchavezjuan.github.io/challenge-1/assets/images/screenshot.png)
+[![image](https://realchavezjuan.github.io/challenge-1/assets/images/screenshot.png)](https://realchavezjuan.github.io/challenge-1)
 
 
 The index is divided into sections which include: 
